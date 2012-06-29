@@ -1,0 +1,7 @@
+name: elgg
+framework:
+  type: php
+  runtime: php
+mem: 256M
+env:
+  HOME_IP_ADDRESS: 127.0.0.1
